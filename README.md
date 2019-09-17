@@ -1,1 +1,1 @@
-# bitcoin_sourcetrail
+Sourcetrail configuration for bitcoin
